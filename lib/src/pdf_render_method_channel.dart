@@ -5,6 +5,7 @@ import 'package:flutter/services.dart';
 
 import 'utils/ffi_wrapper.dart';
 
+import 'dart:typed_data';
 import 'interfaces/pdf_render.dart';
 import 'interfaces/pdf_render_platform_interface.dart';
 
